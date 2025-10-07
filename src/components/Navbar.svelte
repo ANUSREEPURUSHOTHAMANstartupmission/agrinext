@@ -85,7 +85,7 @@
      <main class=" flex  items-start px-7 my-auto">
         <div style="font-family: Museo-Sans, sans-serif;" class="flex my-auto  {scrolled?'':''}">
             <a href="/"  class="md:flex cursor-pointer hidden px-4 py-3  md:py-1 uppercase   text-sm hover:text-green-900">Home</a>
-            <a href="/#About"  class="md:flex page-scroll cursor-pointer hidden px-4 py-3  md:py-1 uppercase   text-sm hover:text-green-900">About</a>
+            <a href="/#about"  class="md:flex page-scroll cursor-pointer hidden px-4 py-3  md:py-1 uppercase   text-sm hover:text-green-900">About</a>
             <a href="/#Objectives"  class="md:flex page-scroll cursor-pointer hidden px-4 py-3  md:py-1 uppercase   text-sm hover:text-green-900">Objectives</a>
             
             <a href="/#Get_Involved" class="md:flex page-scroll hidden cursor-pointer  px-4 py-3  md:py-1 uppercase   text-sm hover:text-green-900">Get Involved</a>
