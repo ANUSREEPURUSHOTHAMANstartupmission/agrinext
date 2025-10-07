@@ -2897,7 +2897,7 @@ span.price {
    <!--Echofy Testimonial Area Home Two-->
 ==================================---*/
 .home-two.testimonial-area {
-  background:url(/img/testi-bg.jpg);
+  background:url(/img/te1.jpg);
   background-repeat: no-repeat;
   background-size:cover;
   background-position: center center;
@@ -3790,7 +3790,7 @@ span.price {
    <!--Echofy Testimonial Area Home Three-->
 ===================================================---*/
 .home-three.testimonial-area {
-    background: url(/img/testi-bg.jpg);
+    background: url(/img/te1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -4602,7 +4602,7 @@ span.price {
 ===================================================---*/
 
 .home-four.testimonial-area {
-    background: url(/img/testi-bg.jpg);
+    background: url(/img/te1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -8433,7 +8433,7 @@ p.blog-list-desc {
 
 .home-six .blog-content {
     border: transparent;
-    padding: 23px 32px 54px;
+    /* padding: 23px 32px 54px; */
     background: #fff;
     position: relative;
 }
